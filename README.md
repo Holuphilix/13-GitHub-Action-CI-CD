@@ -1,4 +1,4 @@
-# GitHub Actions: Implementing Continuous Integration
+# Mini Project: Implementing Continuous Integration (GitHub Actions)
 
 ## Introduction
 This project is part of the **GitHub Actions and CI/CD Course**, focusing on implementing **Continuous Integration (CI)** using GitHub Actions. The primary goal is to automate testing, ensure code quality, and validate changes efficiently before deployment.
